@@ -85,10 +85,10 @@ analytics:
 # Site Author
 author:
   name             : "Ella McMorrow"
-  avatar           : "/images/ellamcmorrow.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me-img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Creatie Coding"
   location         : "Dublin, Ireland"
-  email            :
+  email            : ekmcmorrow@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Github.com/ellamcmorrow"
+  github           : "/ellamcmorrow"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ella-mcmorrow-8b38bb13a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "//www.linkedin.com/in/ella-mcmorrow-8b38bb13a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
