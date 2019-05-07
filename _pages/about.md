@@ -1,9 +1,9 @@
 ---
 title: "About"
-permalink: /
+permalink: /about/
 author_profile: true
 header:
-  image: "/images/bg.png"
+  image: "/images/squares.png"
 
 ---
 Welcome to my Creative Coding Portfolio website.<br/>
