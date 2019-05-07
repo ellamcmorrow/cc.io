@@ -25,7 +25,7 @@ Work was created using p5.js.<br/> P5.js a JS client-side library for creating g
 
 ***
 
-[RectanglesCA](http://ellamcmorrow.github.io/rectangles_cc_ca1/)<br/>
+[RectanglesCA-sample](http://ellamcmorrow.github.io/rectangles_cc_ca1/)<br/>
 
 
 
@@ -33,16 +33,16 @@ Work was created using p5.js.<br/> P5.js a JS client-side library for creating g
 
 ***
 
-[Rose-pattern-generator](http://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
+[Rose-pattern-generator-sample](http://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
 
 ***
 
-[Liquid](http://ellamcmorrow.github.io/liquids/index.html) <br/>
+[Liquid-sample](http://ellamcmorrow.github.io/liquids/index.html) <br/>
 
 ***
 
-[Acceleration](http://ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
+[Acceleration-sample](http://ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
 
 ***
 
-[Butterfly](http://ellamcmorrow.github.io/butterfly/) <br/>
+[Butterfly-sample](http://ellamcmorrow.github.io/butterfly/) <br/>
