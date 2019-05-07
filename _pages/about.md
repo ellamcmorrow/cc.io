@@ -17,9 +17,11 @@ Work was created using p5.js. P5.js a JS client-side library for creating graphi
 ***
 
 [Shape](www.github.com/ellamcmorrow/creative-coding/tree/gh-pages/chapter-2-shape)<br/>
+
 ***
 
 [Type](www.github.com/ellamcmorrow/creative-coding/tree/gh-pages/chapter-3-type)<br/>
+
 ***
 
 [RectanglesCA](www.ellamcmorrow.github.io/rectangles_cc_ca1/)<br/>
@@ -30,11 +32,15 @@ Work was created using p5.js. P5.js a JS client-side library for creating graphi
 [NatureOfCode repository](github.com/ellamcmorrow/NatureOfCode) <br/>
 
 ***
+
 [Rose-pattern-generator-sketch](www.ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
+
 ***
+
 [Liquid-sketch](www.ellamcmorrow.github.io/liquids/index.html) <br/>
 ***
 
 [Acceleration-sketch](www.ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
+
 ***
 [Butterfly-sketch](wwww.ellamcmorrow.github.io/butterfly/) <br/>
