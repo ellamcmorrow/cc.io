@@ -3,12 +3,12 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-  image: "/images/bg.png"
+  image: "/images/squares.png"
 
 ---
 Welcome to my Creative Coding Portfolio website.<br/>
 My name is Ella McMorrow, I'm a final year Creative Computing student at IADT.<br/>
-Below is a link to my Github repository containing samples of work from my Creative Coding module.<br/>
+Below is a link to my Github repository containing samples of work from the last two years of Creative Coding module.<br/>
 Work was created using p5.js. P5.js a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. <br/>
 
 ## Fourth Year p5.js repositories
@@ -30,11 +30,11 @@ Work was created using p5.js. P5.js a JS client-side library for creating graphi
 [NatureOfCode repository](github.com/ellamcmorrow/NatureOfCode) <br/>
 
 ***
-[Rose-pattern-generator](www.ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
+[Rose-pattern-generator-sketch](www.ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
 ***
-[Liquid](www.ellamcmorrow.github.io/liquids/index.html) <br/>
+[Liquid-sketch](www.ellamcmorrow.github.io/liquids/index.html) <br/>
 ***
 
-[Acceleration](www.ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
+[Acceleration-sketch](www.ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
 ***
-[Butterfly](wwww.ellamcmorrow.github.io/butterfly/) <br/>
+[Butterfly-sketch](wwww.ellamcmorrow.github.io/butterfly/) <br/>
