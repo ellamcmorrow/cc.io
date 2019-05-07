@@ -8,7 +8,7 @@ header:
 ---
 Welcome to my Creative Coding Portfolio website.<br/>
 My name is Ella McMorrow, I'm a final year Creative Computing student at IADT.<br/>
-Below is a link to my Github repository containing samples of work from my Creative Coding module.<br/>
+Below is are links to my github repositories and samples of work from my Creative Coding module.<br/>
 Work was created using p5.js.<br/> P5.js a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.<br/> Resources used include Gestaltung's generative design for web and The Nature Of Code by Daniel Shiffman.
 
 ## Fourth Year p5.js repositories
