@@ -13,34 +13,13 @@ Work was created using p5.js. P5.js is a JS client-side library for creating gra
 
 ## Fourth Year p5.js repositories
 
-[Colour](wwww.github.com/ellamcmorrow/creative-coding/tree/gh-pages/chapter-1-colour)<br/>
+[Colour](chapter-1-colour)<br/>
 ***
 
-[Shape](www.github.com/ellamcmorrow/creative-coding/tree/gh-pages/chapter-2-shape)<br/>
-
-***
-
-[Type](www.github.com/ellamcmorrow/creative-coding/tree/gh-pages/chapter-3-type)<br/>
+[Shape](chapter-2-shape)<br/>
 
 ***
 
-[RectanglesCA](www.ellamcmorrow.github.io/rectangles_cc_ca1/)<br/>
-
-
-
-## Third Year p5.js samples
-[NatureOfCode repository](github.com/ellamcmorrow/NatureOfCode) <br/>
+[Type](chapter-3-type)<br/>
 
 ***
-
-[Rose-pattern-generator-sketch](www.ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
-
-***
-
-[Liquid-sketch](www.ellamcmorrow.github.io/liquids/index.html) <br/>
-***
-
-[Acceleration-sketch](www.ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
-
-***
-[Butterfly-sketch](wwww.ellamcmorrow.github.io/butterfly/) <br/>
