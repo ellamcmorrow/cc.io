@@ -4,7 +4,6 @@ permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
-
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Welcome to my Creative Coding Portfolio website.<br/>
+My name is Ella McMorrow, I'm a final year Creative Computing student at IADT.<br/>
+In my recent posts you can see samples from my Creative Coding module.<br/>
