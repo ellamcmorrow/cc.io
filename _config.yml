@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Ella McMorrow"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Ella McMorrow"
 description              : "This is a portfolio of work for a Final Year Creative Coding Website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ella McMorrow"
   avatar           : "/images/ellamcmorrow.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Creatie Coding"
-  location         : "Dublin"
+  location         : "Dublin, Ireland"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -245,7 +245,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true
